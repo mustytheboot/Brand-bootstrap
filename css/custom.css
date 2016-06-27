@@ -5,6 +5,10 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
+/* Main Stuff */
 body {background-color:#3A3939; font-family: 'Lato', sans-serif; color:white;}
+h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif; color:#FAB040;}
 
-h1,h2,h3,h4,h5,h6 {color:#FAB040; font-family: 'Montserrat', sans-serif;}
+/*jumbotron stuff*/
+.jumbotron {background-color:#212121;}
+.jumbotron h1  {color:orange;}
