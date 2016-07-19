@@ -6,8 +6,11 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 /* Main Stuff */
-body {background-color:#3A3939; font-family: 'Lato', sans-serif; color:white;}
+body {background-color:#3A3939; font-family: 'Lato', sans-serif; color:white; font-size: 1.8em;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Montserrat', sans-serif; color:#FAB040;}
+p {padding: 5px 0;}
+
+.top-buffer { margin-top:20px; }
 
 /*jumbotron stuff*/
 .jumbotron {background-color:#212121;}
